@@ -49,7 +49,7 @@ pip install -r requirements.txt
 Inicie o bot com o seguinte comando:
 
 ```bash
-python scraper.py
+python wow-dungeon.py
 ```
 
 ## 💻 Comandos Disponíveis
